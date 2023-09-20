@@ -1,1 +1,1 @@
-This project mainly a starter for a recipe book in the form of website which is done using HTML,CSS this is a simple project for a starter to get with it.
+This project mainly a starter for a recipe book in the form of website which is done using HTML this is a simple project for a starter to get with it.
